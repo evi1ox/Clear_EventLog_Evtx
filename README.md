@@ -1,7 +1,9 @@
 # clearevtx
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。
-PS : 不定期更新
+
+不用提 issues, 问就是不会, wx: Evi1oX
+
 ```
 C:\Users\Administrator\Desktop>clearevtx-ip.exe Security.evtx 172.16.7.1
 [+]PID:2472
@@ -37,6 +39,8 @@ LogonDomain:    WORKGROUP
 LogonType:      Logon (RDP)
 -------------------------------------
 ```
+
+PS : 不定期更新
 
 Refer:
 
