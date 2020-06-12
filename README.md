@@ -2,7 +2,7 @@
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。
 
-不用提 issues, 问就是不会, wx: Evi1oX
+不用提 issues, 问就是不会, 因为我比你还菜 wx: Evi1oX
 
 ```
 C:\Users\Administrator\Desktop>clearevtx-ip.exe Security.evtx 172.16.7.1
