@@ -1,6 +1,7 @@
-# clearevtx
+# Clear_EventLog_Evtx
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。
+
 目的: 清除 RDP 记录
 
 ### clearevtx-ip.exe  
@@ -58,6 +59,7 @@ PS : 不定期更新
 
 Refer:
 
-https://github.com/3gstudent/Eventlogedit-evtx--Evolution
-https://github.com/QAX-A-Team/EventLogMaster/tree/master/powershell
+[https://github.com/3gstudent/Eventlogedit-evtx--Evolution](https://github.com/3gstudent/Eventlogedit-evtx--Evolution)
+
+[https://github.com/QAX-A-Team/EventLogMaster/tree/master/powershell](https://github.com/QAX-A-Team/EventLogMaster/tree/master/powershell)
 
